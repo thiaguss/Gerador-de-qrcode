@@ -29,11 +29,11 @@ Certifique-se de que você tem o [Node.js](https://nodejs.org/en/) (que já incl
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/thiaguss/Gerador-de-qrcode.git](https://github.com/thiaguss/Gerador-de-qrcode.git)
+    git clone https://github.com/thiaguss/Gerador-de-qrcode.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd Criando-um-Gerador-de-QR-Codes-para-E-commerces-com-Node.js
+    cd Gerador-de-qrcode
     ```
 3.  **Instale as dependências do projeto:**
     ```bash
