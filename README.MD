@@ -29,7 +29,7 @@ Certifique-se de que você tem o [Node.js](https://nodejs.org/en/) (que já incl
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/diegovitorportella/Criando-um-Gerador-de-QR-Codes-para-E-commerces-com-Node.js.git](https://github.com/diegovitorportella/Criando-um-Gerador-de-QR-Codes-para-E-commerces-com-Node.js.git)
+    git clone [https://github.com/thiaguss/Gerador-de-qrcode.git](https://github.com/diegovitorportella/Criando-um-Gerador-de-QR-Codes-para-E-commerces-com-Node.js.git)
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
